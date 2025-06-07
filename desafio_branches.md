@@ -1,0 +1,5 @@
+- Crear la rama 'hotfix'
+- Crear la rama 'release'
+- Crear la rama 'develop', luego:
+    - Crear la rama 'feature', luego:
+        - Crear la rama 'feature-2'
