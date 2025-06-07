@@ -4,4 +4,5 @@ Espacio para que los alumnos de Taller de Proyecto de Software O2025 experimente
 
 ## Tarea 1
 Agregar su nombre en el siguiente listado: <br>
-1 - Rodrigo Reyes Silva
+
+1 - Rodrigo Reyes Silva <br>
