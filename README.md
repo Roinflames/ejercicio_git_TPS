@@ -3,5 +3,5 @@
 Espacio para que los alumnos de Taller de Proyecto de Software O2025 experimenten con git y github
 
 ## Tarea 1
-Agregar su nombre en el siguiente listado:
+Agregar su nombre en el siguiente listado: <br>
 1 - Rodrigo Reyes Silva
